@@ -1,0 +1,67 @@
+Repeated strings:
+	- LUUNXZHPRU
+		- Distance between: 68
+			- Factors: 1, 2, 4, 17, 34, 68
+	- ALNPBUPBGR
+		- Distance between: 140
+			- Factors: 1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140 
+	- HDQL
+		- 1st distance: 40
+			- Factors: 1, 2, 4, 5, 8, 10, 20, 40
+		- 2nd distance: 100
+			- Factors: 1, 2, 4, 5, 10, 20, 50, 100
+	- RKB
+		- Distance between: 152
+			- Factors: 1, 2, 4, 8, 19, 38, 76, 152
+	- HDL
+		- Distance between: 66
+			- Factors: 1, 2, 3, 6, 11, 22, 33, 66
+
+Possible known words:
+	- HFVWRREFTWDX -> Cryptography
+	- CBYHRGL -> Welcome
+	- RR -> To
+
+Odd Character Substitution:
+
+F = R
+W = P
+R = O
+X = Y
+L = E
+C = W
+Y = L
+H = T ?
+A = A ?
+D = H ?
+S = F ?
+K = H ?
+Q = I ?
+J = K
+N = S
+B = G
+P = M
+G = N
+E = B
+
+Even Character Substitution:
+
+B = E
+H = C
+G = M
+R = T
+P = A
+S = F
+D = H
+G = M
+F = W
+N = R
+V = Y
+E = G
+T = A
+J = U
+L = S
+I = D
+U = N
+X = O
+M = L

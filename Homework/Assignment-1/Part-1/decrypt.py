@@ -20,6 +20,7 @@ def main():
         for char in encryptionKey:
             if int(character) == encryptionKey[char]:
                 decryptedText.append(char)
+                break
 
     for character in decryptedText:
         plaintext.write(character)

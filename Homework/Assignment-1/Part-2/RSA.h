@@ -23,11 +23,5 @@ namespace ckees
 		NTL::ZZ m_publicExponent;
 		NTL::ZZ m_privateExponent;
 		NTL::ZZ m_phi;
-
-		/*
-		TO-DO:
-			- Generate primes, generate exponents
-			- Find a library that permits the usage of arbitrary length integers
-		*/
 	};
 } // namespace ckees
